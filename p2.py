@@ -14,7 +14,7 @@ class TextColor:
 print(f"{TextColor.RED}{TextColor.RESET}")
 print(f"{TextColor.BLUE} + -- --=[{TextColor.RED} simple.osint.builds v1.1.2 {TextColor.BLUE}   ]{TextColor.RESET}")
 print(f"{TextColor.BLUE} + -- --=[{TextColor.RED} https://github.com/ghoste9624 {TextColor.BLUE}]{TextColor.RESET}")
-print(f"{TextColor.BLUE} + -- --=[{TextColor.GREEN} phone.number.parcer{TextColor.BLUE}           ]{TextColor.RESET}")
+print(f"{TextColor.BLUE} + -- --=[{TextColor.GREEN} phone.number.parser{TextColor.BLUE}           ]{TextColor.RESET}")
 print(f"{TextColor.RED}{TextColor.RESET}")
 italic_start = '\x1B[3m'
 italic_end = '\x1B[0m'
