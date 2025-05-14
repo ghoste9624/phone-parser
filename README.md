@@ -1,5 +1,5 @@
 # phone-parser
-phone.number.parcer 
+phone.number.parser 
 
 <br>
 
